@@ -21,7 +21,7 @@ Here you can find the release that was created for this project:
 Testing process<br></h2>
 The test process was performed based on the standard test process as described below.
 
-1.1 Test planning
+1.1 Test planning<br>
 The Test Plan is designed to describe all details of testing for the Login module for the Carturesti application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here [Test Plan Carturesti](https://github.com/TarusDana/Testare-Manuala/files/14969886/Copy.of.Untitled.document.docx)
@@ -72,10 +72,69 @@ User experience<br>
 Update and maintenance<br>
 <h4>1.1.6 Evaluating entry criteria</h4>
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.<br>
-<h3>1.2 Test Monitoring and Control</h3>
-The monitoring and control phase was implemented to ensure that the project progresses according to plan and to address any deviations or issues promptly. This phase allows project managers to track project performance, identify potential risks or delays, and take corrective actions to keep the project on track.<br> 
-![status report](https://github.com/TarusDana/Testare-Manuala/assets/166814004/c91b0bf0-0ae6-4b37-a5e1-f49ecd7c5191)<br>
-![text execution progress](https://github.com/TarusDana/Testare-Manuala/assets/166814004/52922be2-37a5-426d-a62b-57d7bfb94cfe)<br>
+
+<h2>1.2 Test Monitoring and Control</h2>
+
+The monitoring and control phase was implemented to ensure that the project progresses according to plan and to address any deviations or issues promptly. This phase allows project managers to track project performance, identify potential risks or delays, and take corrective actions to keep the project on track.<br>
+![status report](https://github.com/TarusDana/Testare-Manuala/assets/166814004/aab40c37-f6cd-451c-82c7-f1ae499c2b23)<br>
+![text execution progress](https://github.com/TarusDana/Testare-Manuala/assets/166814004/e282b7ea-9d0b-4545-9bf9-e5ebe78010e1)<br>
+
+<h4>1.3 Test Analysis</h4>
+The testing process will be executed based on the application requirements.
+
+The following test conditions were found:
+![testele](https://github.com/TarusDana/Testare-Manuala/assets/166814004/8aa6d450-e03b-4a66-8c15-aa33381381cd)<br>
+<h4>1.4 Test Design</h4>
+<br><br>
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Test Cases](https://github.com/TarusDana/Testare-Manuala/files/14970560/Copy.of.Teste.-.Jira.csv.pdf)
+
+1.5 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:<br>
+
+<ul>
+<li>Test Environment Setup</li><br>
+<li>Test Data Preparation</li><br>
+<li>Test Case Execution</li><br>
+<li>Defect Reporting</li><br>
+<li>Test Coverage Analysis</li><br>
+<li>Regression Testing</li><br>
+<li>Test Progress Tracking</li><br>
+<li>Test Documentation</li><br>
+<li>Test Execution Validation</li><br>
+</ul>
+<h4>1.6. Test Execution</h4>
+Test cases are executed on the created test Cycle summary: Test Login
+
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs](https://github.com/TarusDana/Testare-Manuala/files/14970667/Bugs.-.Jira.1.csv.pdf)
+
+The following is a summary of the bugs that have been found [Summary](https://github.com/TarusDana/Testare-Manuala/files/14970667/Bugs.-.Jira.1.csv.pdf)
+
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
+1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+
+The traceability matrix was generated and can be found here: ![story matrice](https://github.com/TarusDana/Testare-Manuala/assets/166814004/a9251957-5de2-48d9-b058-fc4d89b0f34b)
+
+Test execution chart was generated and can be found below.
+
+![Screenshot_5](https://github.com/TarusDana/Testare-Manuala/assets/166814004/f0736e4c-f241-4dfa-898f-f7f6951c6e7c)
+
+The final report shows that a number 2 tests have failed of a total of 10
+
+A number of 2 total bugs were found, from which the priority is: 1 is high and 1 is medium
+
+Based on the test results, it's positive to see that all functionalities have been tested and that the bugs found can be easily fixed. However, it's concerning that the product risks include medium data security and user experience.
+
+Given the potential impact of security-related bugs on user data, it's crucial to prioritize security measures and conduct thorough testing to identify and address any vulnerabilities. Additionally, focusing on improving the user experience and ensuring smooth update and maintenance processes can help enhance the overall quality of the product.
+
+Therefore, it's recommended to allocate more attention and resources to addressing security-related issues and improving the overall user experience. This proactive approach can help mitigate potential risks and ensure a more secure and user-friendly product in the future.
+
+
+
+
+
+
+
+
 
 
 
