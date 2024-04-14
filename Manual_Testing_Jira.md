@@ -85,7 +85,7 @@ The testing process will be executed based on the application requirements.
 The following test conditions were found:
 ![testele](https://github.com/TarusDana/Testare-Manuala/assets/166814004/8aa6d450-e03b-4a66-8c15-aa33381381cd)<br>
 <h4>1.4 Test Design</h4>
-<br><br>
+
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Test Cases](https://github.com/TarusDana/Testare-Manuala/files/14970560/Copy.of.Teste.-.Jira.csv.pdf)
 
 1.5 Test Implementation
