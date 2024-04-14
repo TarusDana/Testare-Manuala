@@ -73,7 +73,9 @@ Update and maintenance<br>
 <h4>1.1.6 Evaluating entry criteria</h4>
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.<br>
 <h3>1.2 Test Monitoring and Control</h3>
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+The monitoring and control phase was implemented to ensure that the project progresses according to plan and to address any deviations or issues promptly. This phase allows project managers to track project performance, identify potential risks or delays, and take corrective actions to keep the project on track.<br> 
+![status report](https://github.com/TarusDana/Testare-Manuala/assets/166814004/c91b0bf0-0ae6-4b37-a5e1-f49ecd7c5191)<br>
+![text execution progress](https://github.com/TarusDana/Testare-Manuala/assets/166814004/52922be2-37a5-426d-a62b-57d7bfb94cfe)<br>
 
 
 
