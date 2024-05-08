@@ -45,8 +45,8 @@ testing environment is up and running<br><br>
 no Critical issues have Open status<br>
 update tests are 100% passed (update tests will not generate other new issues that impact the application)<br>
 
-<h4>1.1.4 Test scope</h4>
-<h4>Tests in scope:</h4<br>
+## 1.1.4 Test scope
+### Tests in scope:
 Browse Books: Users can search and explore a wide variety of books available on the website.<br>
 Add to Cart: Users can add books to their cart for purchase.<br>
 Checkout: Users can proceed to checkout to finalize their purchases.<br>
