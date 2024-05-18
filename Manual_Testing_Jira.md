@@ -88,7 +88,7 @@ The following test conditions were found:
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Test Cases](https://github.com/TarusDana/Testare-Manuala/files/14970560/Copy.of.Teste.-.Jira.csv.pdf)
 
-1.5 Test Implementation
+### 1.5 Test Implementation<br>
 The following elements are needed to be ready before the test execution phase begins:<br>
 
 <ul>
