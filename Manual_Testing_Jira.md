@@ -7,8 +7,9 @@ Tools used: Jira, Zephyr Squad.<br>
 <br>
 The below stories were created in Jira and describe the functional specifications of the "Login" module, for which the final project is performed upon.
 
-![image](https://github.com/TarusDana/Testare-Manuala/assets/166814004/7ee58839-9b02-429c-9f15-096d54cf6350)
-![image](https://github.com/TarusDana/Testare-Manuala/assets/166814004/91fb84ce-1c08-4f9e-bfef-b4696b4d2838)
+
+![story1 jira](https://github.com/TarusDana/Testare-Manuala/assets/166814004/f43426f9-7ec1-4e1b-ac9b-9a7ca0c64191)
+![story2 jira](https://github.com/TarusDana/Testare-Manuala/assets/166814004/e77a42bc-3f80-4386-82de-20336dded1a4)
 
 
 
