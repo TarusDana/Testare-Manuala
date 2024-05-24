@@ -95,13 +95,10 @@ The following elements are needed to be ready before the test execution phase be
 <ul>
 <li>Test Environment Setup</li><br>
 <li>Test Data Preparation</li><br>
-<li>Test Case Execution</li><br>
-<li>Defect Reporting</li><br>
 <li>Test Coverage Analysis</li><br>
 <li>Regression Testing</li><br>
 <li>Test Progress Tracking</li><br>
 <li>Test Documentation</li><br>
-<li>Test Execution Validation</li><br>
 </ul>
 <h4>1.6. Test Execution</h4>
 Test cases are executed on the created test Cycle summary: Test Login
